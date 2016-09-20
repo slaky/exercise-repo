@@ -1,10 +1,12 @@
 # exercise-repo
 
-Shalalal 
-cONSTESDNBAH
-Hi From the clone, ok?
-Dajdbaidhabdia you no listen?
+This project will contain...
 
+Repository made for execises.
+Edited again in master branch..
 
+Repository made for exercises.
+Hello, again!!!
 WHY U NO LISTEN?
 hu?>
+
